@@ -9,6 +9,6 @@ spring:
     name: microservicecloud-config-aiguigu-dev
 ---
 spring:
-  profiles: dev
+  profiles: test
   application:
     name: microservicecloud-config-aiguigu-test
